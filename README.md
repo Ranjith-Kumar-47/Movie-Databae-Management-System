@@ -1,4 +1,4 @@
-# Movie-Databae-Management-System
+# Movie-Database-Management-System
  ● A website used for storing movies details (newly released movies or old movies).<br>
  ● The website build using HTML, CSS and JSP(Jakarta Server Pages) as frontend. <br>
  ● JAVA, SERVLETS(basics) AND MYSQL database as backend. <br>
